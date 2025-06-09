@@ -9,7 +9,7 @@ A lightweight Python tool for parsing **iOS App Store receipts**, including deta
 - ✅ Parses `PKCS7`-encoded (CMS) App Store receipts  
 - ✅ Extracts key metadata (bundle ID, app version, creation date, etc.)  
 - ✅ Displays detailed **in-app purchase** records
-- 
+  
 ---
 
 ## 🧰 Requirements
